@@ -10,7 +10,7 @@
 
 
 ### 팀원 소개
-![image/팀원소개.png](image/팀원소개_3.png)
+![팀원소개](images/팀원소개_3.png)
 
 
 ### 기술 스택
@@ -67,31 +67,31 @@
 ## 프로젝트 관리 산출물
 
 ### 프로젝트 일정(WBS)
-![alt text](image/wbs_image.png)
+![wbs](images/wbs_image.png)
 
-### API 명세
-![alt text](image/API_specification_image.png)
+### API 명세서
+![API 명세서](images/API_specification_image.png)
 
 
 ## 아키텍처 & 설계 산출물
 
 ### 서비스 플로우
-![alt text](image/flow_chart.png)
+![서비스 플로우](images/flow_chart.png)
 
 ### ERD
-![alt text](image/ERD_image_white.png)
+![ERD](images/ERD_image_white.png)
 
 ### 시스템 아키텍쳐
 
 #### 현재
-![alt text](image/SystemArchitecture_Real.png)
+![시스템아키텍처 현재](images/SystemArchitecture_Real.png)
 
 #### 추후
-![alt text](image/SystemArchitecture_Ideal.png)
+![시스템아미텍처 추후](images/SystemArchitecture_Ideal.png)
 
 
 ### 클라우드 아키텍처
-![alt text](image/UhokCloundArchitecture.drawio.png)
+![클라우드 아키텍처](images/UhokCloundArchitecture.drawio.png)
 
 
 ## 📌 서비스 소개
@@ -108,13 +108,13 @@
 #### 홈쇼핑–쇼핑몰 연계 추천
 - 홈쇼핑(U+TV) ↔ U+콕 쇼핑몰 간 유사/대체 상품 자동 매칭  
 - 찜/장바구니 기반으로 방송 알림 제공
-- ![홈쇼핑 편성표_디폴트.png](image/편성표_디폴트.png)
+- ![홈쇼핑 편성표_디폴트.png](images/편성표_디폴트.png)
 
 #### 레시피 기반 개인화 추천
 - 키워드/보유 재료/시청·구매 이력 기반 맞춤형 레시피 추천  
 - 레시피에서 필요한 식재료 ↔ 즉시 구매 연결 
-- ![레시피 결과 리스트.png](<image/레시피 결과 리스트.png>)
-- ![레시피 추천 상품.png](<image/레시피 추천 상품.png>)
+- ![레시피 결과 리스트.png](<images/레시피 결과 리스트.png>)
+- ![레시피 추천 상품.png](<images/레시피 추천 상품.png>)
 
 #### 통합 검색 기능
 - 홈쇼핑 방송 상품 + U+콕 쇼핑몰 상품을 동시에 탐색  
@@ -135,7 +135,7 @@
 #### UI/UX 최적화
 - 모바일 중심 심플 UI (중장년층도 쉽게 사용)  
 - 과도한 광고 최소화 → 피로도 ↓  
-- ![콕 main.png](image/main.png)
+- ![콕 main.png](images/main.png)
 
 #### 데이터 기반 개인화
 - 찜/장바구니/시청·구매 이력 분석  
@@ -160,7 +160,7 @@
 
 ## 수상 사진
 
-![수상기념사진_편집1](image/수상사진_편집1.png)
+![수상기념사진_편집1](images/수상사진_편집1.png)
 
 
 ## 프로젝트 회고
